@@ -19,6 +19,7 @@ from __future__ import absolute_import, division, print_function, \
     with_statement
 
 import collections
+from collections.abc import MutableMapping
 import logging
 import time
 
@@ -41,7 +42,8 @@ except:
 
 SWEEP_MAX_ITEMS = 1024
 
-class LRUCache(collections.MutableMapping):
+#class LRUCache(collections.MutableMapping)
+class LRUCache(MutableMapping):
     """This class is not thread safe"""
 
     def __init__(self, timeout=60, close_callback=None, *args, **kwargs):
