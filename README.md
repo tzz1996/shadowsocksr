@@ -93,13 +93,13 @@ Bugs and Issues
 
 
 
-[Android]:           https://github.com/shadowsocksr/shadowsocksr-android
+[Android]:           https://github.com/shadowsocksrr/shadowsocksr-android
 [Build Status]:      https://travis-ci.org/shadowsocksr/shadowsocksr.svg?branch=manyuser
 [Debian sid]:        https://packages.debian.org/unstable/python/shadowsocks
 [iOS]:               https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help
-[Issue Tracker]:     https://github.com/shadowsocksr/shadowsocksr/issues?state=open
+[Issue Tracker]:     https://github.com/shadowsocksrr/shadowsocksr/issues?state=open
 [OpenWRT]:           https://github.com/shadowsocks/openwrt-shadowsocks
-[macOS]:             https://github.com/shadowsocksr/ShadowsocksX-NG
+[macOS]:             https://github.com/shadowsocksrr/ShadowsocksX-NG
 [Travis CI]:         https://travis-ci.org/shadowsocksr/shadowsocksr
-[Windows]:           https://github.com/shadowsocksr/shadowsocksr-csharp
+[Windows]:           https://github.com/shadowsocksrr/shadowsocksr-csharp
 [Wiki]:              https://github.com/breakwa11/shadowsocks-rss/wiki
